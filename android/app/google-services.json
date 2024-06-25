@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640589701078",
+    "project_id": "simpleiot-8934f",
+    "storage_bucket": "simpleiot-8934f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640589701078:android:eda0183c6116b8d6984e77",
+        "android_client_info": {
+          "package_name": "com.simpleiot.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZkxSWooCKmS8Ga0eYCLIO8hi2fg_Junk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
